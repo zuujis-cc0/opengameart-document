@@ -1,5 +1,10 @@
 {
- "assets": {},
+ "assets": {
+  "character-studio-%E2%80%94-pixel-art-editor": "00aba3c1a2cc76d84efc7245dda3f2f02af12902",
+  "ggbotnet-fonts-cc0-all-in-1": "e426edb63a92dd90744a7bf8c3b4639256222f9a",
+  "jester-scrawl-font": "edcecfad021c540ba0f13af10828e88b3ed01af0",
+  "renascence-mono-font-ttf-and-fnt": "6a2902791e47f16e26bf95a2bc4f8decee92dc7e"
+ },
  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
  "site": "https://opengameart.org",
  "source": "opengameart",
