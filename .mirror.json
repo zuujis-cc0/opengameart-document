@@ -1,8 +1,17 @@
 {
  "assets": {
   "character-studio-%E2%80%94-pixel-art-editor": "00aba3c1a2cc76d84efc7245dda3f2f02af12902",
+  "free-cheese-font": "28d4104e065079e0fed2f7afff26a93223c77a85",
   "ggbotnet-fonts-cc0-all-in-1": "e426edb63a92dd90744a7bf8c3b4639256222f9a",
+  "isometric-tile-toolkit": "f28fd8ddc9502a09f71b8086e7c2d32b7df94ea1",
   "jester-scrawl-font": "edcecfad021c540ba0f13af10828e88b3ed01af0",
+  "jupiteroid-font": "b387d0ee1b59b2a8ebb77cb85b6a6b68e314cdae",
+  "lepidos-font": "699cfc009bc1f1b79e78180196bde14bf31bce22",
+  "linefont": "ea56be8ff85d89140ce6d433a418be78c8824b96",
+  "monostilus": "c5103841bfac7ee78303c887e6ee02fcd7434cd4",
+  "nyntunkofuture-font": "dc8cbbab2046b650ab292c47fdb080d6c9d0657c",
+  "nyntunkofuture-font-with-numbers": "f1595ac7c69e95f731233656b7ea4c084df333ec",
+  "pizel-font": "dcc439373dc819a1bf4fc0b49bb5a827d28d951d",
   "renascence-mono-font-ttf-and-fnt": "6a2902791e47f16e26bf95a2bc4f8decee92dc7e"
  },
  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
